@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/joeyparrish/trace-anything/compare/v1.0.2...v1.0.3) (2024-12-19)
+
+
+### Bug Fixes
+
+* Fix window pollution in browser ([e933df6](https://github.com/joeyparrish/trace-anything/commit/e933df6cc6b25c00a64327334330b4b940aae208))
+* missing parameter `options` in `_shimPropertySilent()` ([#10](https://github.com/joeyparrish/trace-anything/issues/10)) ([b7fa653](https://github.com/joeyparrish/trace-anything/commit/b7fa653d5f1eb7aa234354ac98cac8ef9a335871))
+
 ## [1.0.2](https://github.com/shaka-project/trace-anything/compare/v1.0.1...v1.0.2) (2022-06-23)
 
 
